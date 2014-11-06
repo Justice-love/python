@@ -41,9 +41,9 @@ eddy = Person('eddy')
 eddy.sayHi()
 eddy.howMany()
 
-sharter = Person('sharter')
-sharter.sayHi()
-sharter.howMany()
+# sharter = Person('sharter')
+#sharter.sayHi()
+#sharter.howMany()
 
 eddy.sayHi()
 eddy.howMany()
